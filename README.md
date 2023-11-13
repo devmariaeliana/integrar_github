@@ -20,7 +20,7 @@ ls para mostrar todas as pastas;
 **code .** para abrir no vscode;
 
 
-#Dentro do Vscode
+               Ações dentro do Vscode
 
 **View > Terminal** abrir o terminal
 
