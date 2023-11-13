@@ -1,7 +1,8 @@
-#### Criar a pasta local e o repositório no git:
+## Criar a pasta local e o repositório no git:
 
 
 <!-- comentário --> 
+
 
    * Sincronizando as pastas pelo Prompt de comando:
 
@@ -26,7 +27,7 @@
 >
 > `clear`   limpar o hitórico de comandos no terminal;
 
-#### Ações dentro do Vscode
+## Ações dentro do Vscode
                
 
 `View > Terminal`   caminho para abrir o terminal ***PowerShell*** no Visual Studio Code;
