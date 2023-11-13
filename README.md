@@ -23,6 +23,7 @@ ls para mostrar todas as pastas;
 #Dentro do Vscode
 
 **View > Terminal** abrir o terminal
+
 **git init**
 
 
