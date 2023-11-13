@@ -17,10 +17,13 @@ clear limpar o hitórico de comandos no terminal;
 
 ls para mostrar todas as pastas;
 
-code . para abrir no vscode;
+**code .** para abrir no vscode;
 
 
 #Dentro do Vscode
+
+**View > Terminal** abrir o terminal
+**git init**
 
 
 
