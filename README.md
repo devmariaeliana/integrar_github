@@ -7,7 +7,7 @@
    * Sincronizando as pastas pelo Prompt de comando:
 
 
-`cmd`  abrir o prompt para criar o clone no repositório localmente;
+`cmd`  abrir o prompt para criar o clone do repositório localmente;
 
 `cd .\ + nome da pasta local`
 
