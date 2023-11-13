@@ -30,7 +30,7 @@
 ## Ações dentro do Vscode
                
 
-`View > Terminal`   caminho para abrir o terminal ***PowerShell*** no Visual Studio Code;
+`view > terminal`   caminho para abrir o terminal ***PowerShell*** no Visual Studio Code;
 
 `git init`
 
