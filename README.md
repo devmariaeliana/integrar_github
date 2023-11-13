@@ -25,7 +25,7 @@
 >
 > **clear** limpar o hitórico de comandos no terminal;
 
-             Ações dentro do Vscode
+               Ações dentro do Vscode
                
 
 **View > Terminal** - Caminho para abrir o terminal PowerShell no Visual Studio Code;
