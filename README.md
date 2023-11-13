@@ -1,9 +1,9 @@
-﻿Versionamento_test
-
-                Criar a pasta local e o repositório no git
+              Criar a pasta local e o repositório no git
 
 
-***Sincronizando as pastas pelo Prompt de comando:***
+<!-- comentário --> 
+
+#### ***Sincronizando as pastas pelo Prompt de comando:***
 
 **cmd** abrir o prompt para criar o clone no repositório localmente;
 
@@ -23,13 +23,12 @@
 
 >[!IMPORTANT]
 >
-> **clear** limpar o hitórico de comandos no terminal;.
+> **clear** limpar o hitórico de comandos no terminal;
 
+             Ações dentro do Vscode
+               
 
-
-               Ações dentro do Vscode
-
-**View > Terminal** abrir o terminal
+**View > Terminal** - Caminho para abrir o terminal PowerShell no Visual Studio Code;
 
 **git init**
 
@@ -39,6 +38,3 @@
 
 Inserir continuação...
 
-{c:green}[fa=check-circle /]{/c} Meu Ícone Verde
-
-{c:red}[fa=times-circle /]{/c} Meu Ícone Vermelho
