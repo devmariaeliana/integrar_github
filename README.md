@@ -25,6 +25,8 @@ ls para mostrar todas as pastas;
 **View > Terminal** abrir o terminal
 
 **git init**
+**git add .**
+**git commit -m "mensagem"**
 
 
 
