@@ -5,7 +5,6 @@
 
 ***Sincronizando as pastas pelo Prompt de comando:***
 
-
 **cmd** abrir o prompt para criar o clone no repositório localmente;
 
 **cd .\ + nome da pasta local**;
@@ -24,7 +23,7 @@
 
 >[!IMPORTANT]
 >
-> {c:#B81365} **clear** limpar o hitórico de comandos no terminal {/c};.
+> **clear** limpar o hitórico de comandos no terminal;.
 
 
 
@@ -39,3 +38,7 @@
 **git commit -m "mensagem"**
 
 Inserir continuação...
+
+{c:green}[fa=check-circle /]{/c} Meu Ícone Verde
+
+{c:red}[fa=times-circle /]{/c} Meu Ícone Vermelho
